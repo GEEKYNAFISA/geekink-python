@@ -1,4 +1,4 @@
-# geekink-python
+# geekink-python |
 
 ## question 1 assigment
 
@@ -8,7 +8,7 @@ what is programing
 
 what is programing language
 
->### question 2
+### question 2
 
 what is compiler and interfriter
 
