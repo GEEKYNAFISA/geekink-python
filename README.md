@@ -1,15 +1,15 @@
-# geekink-python |
+# geekink-python 
 
-## question 1 assigment
+|## question 1 assigment
 
-what is program
+|what is program
 
-what is programing
+|what is programing
 
-what is programing language
+|what is programing language
 
-### question 2
+|### question 2
 
-what is compiler and interfriter
+|what is compiler and interfriter
 
-and the example
+|and the example
