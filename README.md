@@ -1,6 +1,6 @@
 # geekink-python
 
-# assigment
+# question 1 assigment
 
 what is program
 
