@@ -1,6 +1,6 @@
 # geekink-python
 
-assigment
+# assigment
 
 what is program
 what is programing
