@@ -1,5 +1,5 @@
 # geekink-python 
-##ASSIGMENT
+## ASSIGMENT
 ---
 ###  question.A
 >1. what is program
