@@ -13,3 +13,4 @@
 * computer programing is the process of written instruction that tell a computer what to do.
 * A programing language is a language that humans use to give istructions to a computer so that it
   can perform a specific tasks.
+* A compiler is a program that translate the entire source code in to machine code before the computer executes it. 
