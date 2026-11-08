@@ -15,3 +15,4 @@
   can perform a specific tasks.
 * A compiler is a program that translate the entire source code in to machine code before the computer executes it. 
 * interpreter is a program that reads and executes source code during runtime, typically one statement at a time.
+example of compiler| example of interpreter|
