@@ -10,4 +10,4 @@
 >2. and the example
 ##### ANSWER
 * A computer program is a set of instruction written by a programmer to tell a computer what to do.  
-*computer programing is the process of written instruction that tell a computer what to do.
+* computer programing is the process of written instruction that tell a computer what to do.
