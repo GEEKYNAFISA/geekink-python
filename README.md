@@ -9,4 +9,4 @@
 >1. what is compiler and interfriter
 >2. and the example
 ##### ANSWER
-*  
+* A computer program is a set of instruction written by a programmer to tell a computer what to do.  
