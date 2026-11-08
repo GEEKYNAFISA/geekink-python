@@ -21,4 +21,4 @@
 | C | python | 
 | C++ | javascrip | 
 | rust | ruby |
-| go | p h p |
+| go | P H P |
